@@ -33,5 +33,5 @@ The data can be read in R with:
 tidydata <- read.table("tidydata.txt", sep = "\t", header = TRUE)
 
 
-A [codebook](https://github.com/tdwbiz/Courseproject_tidy_data/blob/master/CodeBook.md) (`CodeBook.md`) is available 
+A [codebook](https://github.com/tdwbiz/Courseproject_tidy_data/blob/master/codebook.md) (`CodeBook.md`) is available 
 and give a brief description of the tidy data set columns.
